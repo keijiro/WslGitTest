@@ -1,6 +1,0 @@
-* text=auto
-
-Assets/** eol=lf
-ProjectSettings/** eol=lf
-
-*.cs diff=csharp
